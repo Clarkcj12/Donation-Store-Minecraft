@@ -31,7 +31,7 @@
         <dependency>
             <groupId>org.spongepowered</groupId>
             <artifactId>configurate-hocon</artifactId>
-            <version>3.6</version>
+            <version>3.7.3</version>
             <scope>compile</scope>
         </dependency>
 
